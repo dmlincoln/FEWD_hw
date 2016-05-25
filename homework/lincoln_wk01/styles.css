@@ -1,0 +1,22 @@
+
+
+//styles.css//
+
+
+
+body {
+    margin:30px;
+    padding: 40px 10px 10px 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+       
+}
+
+h2 {
+	text-decoration: underline;
+    }    
+
+
+footer {
+    text-align: center;    
+    }
